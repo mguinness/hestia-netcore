@@ -2,7 +2,7 @@
 The goal of this repository is to bring you a base template that allows you to host/run ASPNET/Net Core Applications with [Hestia Control Panel](https://hestiacp.com/).
 
 ## Requisites
-Before you use theses templates make sure you have installed the runtime packages or SDK on your system. You can follow these links for more info.
+Before you use these templates make sure you have installed the runtime packages or SDK on your system. You can follow these links for more info.
 
 - [Install .NET on Linux](https://learn.microsoft.com/en-us/dotnet/core/install/linux)
 - [Host ASP.NET Core on Linux with Nginx](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx)
